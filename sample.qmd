@@ -1,0 +1,15 @@
+---
+title: "EDA and Graph"
+format: html
+---
+
+## Test Quarto Doc for Posit Connect Cloud
+
+```{r}
+df <- read.csv("sales.csv")
+```
+
+
+```{r}
+head(df)
+```
